@@ -23,11 +23,15 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   <img src = "https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
   <img src = "https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white" alt = "php" />
-  <img src = "https://img.shields.io/badge/MySql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white" alt = "mysql" />
   
 - <h4> Frameworks </h4>
   <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react" />
   <img src = "https://img.shields.io/badge/laravel-eb4432?style=for-the-badge&logo=laravel&logoColor=white" alt = "laravel" />
+  
+- <h4> BD </h4>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
+  <img src ="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite"/>
+  <img src ="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/>
   
 - <h4> Herramientas </h4>
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
@@ -35,10 +39,8 @@
 
 <h1> Github Stats </h1>
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=alcarraz301997&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alcarraz301997&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="0xabdulkhalid"/>
-
-</a>
+  <a href="https://github.com/alcarraz301997">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=k3nt456&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=k3nt456&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </div>
