@@ -3,9 +3,10 @@
 <br>
 <h1> Sobre mí 🧑🏻‍💻 </h1>
 
-  - 👨‍💻 Actualmente trabajo como desarrollador back-end
-  - 🤓 Buscando convertirse en desarrollador full-stack
-  - 🐧 Me encanta usar linux.
+  - 👨‍💻 Desarrollador back-end con experiencia en desarrollo web y sistemas de gestión de bases de datos. Apasionado por la resolución de problemas y el aprendizaje continuo en el campo de la tecnología.
+  - 🎓 Bachiller en Ingeniería Informática con sólidos conocimientos en programación y diseño de bases de datos.
+  - 🚀 Buscando expandir mis habilidades para convertirme en un desarrollador full-stack y contribuir al éxito de proyectos innovadores.
+  - 🐧 Apasionado por Linux.
   - 🤙 Mas sobre mí:
 
 [![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junioralcarraz/)
@@ -37,7 +38,7 @@
 
 <a href="https://github.com/0xabdulkhalid/">
   <img src="https://github-readme-stats.vercel.app/api?username=alcarraz301997&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alcarraz301997&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alcarraz301997&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"  alt="0xabdulkhalid"/>
 
 </a>
 </div>
